@@ -54,4 +54,7 @@ o Creating different shapes and formatting
 
 o Generating Insights from charts  
 
+# Live Project Link:
+https://app.powerbi.com/view?r=eyJrIjoiYjY5OTQyN2EtOGY2Ny00YzY3LTg2MTQtMTBhY2VkNWM2NGRkIiwidCI6IjUzM2E1NTQxLTNmNjctNGY2MS1iMDk1LTA5NjhiNDA2MGJlOSJ9
+
 
